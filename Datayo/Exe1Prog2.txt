@@ -1,0 +1,22 @@
+Exe1 prog2.m
+
+Sequ<EA>ncia de entradas que deixam de compor o modelo
+ Columns 1 through 22:
+    6   10   14   25    9    4   11   24    2   22   23   16    5   13   21    8    7    1   19   15   17    3
+ Columns 23 through 25:
+   12   18   20
+Evolu<E7><E3>o do erro ao longo da poda do modelo
+ Columns 1 through 5:
+   1.18823282653580   1.18638496308100   1.18471940777892   1.18337363414220   1.18208915667681
+ Columns 6 through 10:
+   1.18098949496573   1.17999863810516   1.17920774551640   1.17851426746167   1.17793687164715
+ Columns 11 through 15:
+   1.17736229698691   1.17697091617843   1.17671247994761   1.17642372252601   1.17615731202667
+ Columns 16 through 20:
+   1.17611905475305   1.17634479238094   1.17619027295535   1.18026114301497   1.18750354288768
+ Columns 21 through 25:
+   1.19822613870301   1.21807079318312   1.25574717573780   1.26907260603280   1.40116649099102
+Erro considerando um modelo com as 5 entradas de maior correla<E7><E3>o
+ 1.23118870068232
+Erro considerando um modelo com as 5 entradas de maior correla<E7><E3>o e as 5 entradas aleat<F3>rias
+ 1.23454996885507

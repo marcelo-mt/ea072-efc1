@@ -1,0 +1,43 @@
+ analysis 9 4000
+
+ Filename of the test dataset (use single quotes): 'prep_dengue'
+(1) Use weights minimizing the validation error
+(2) Use weights minimizing the training error
+Which set of weights you would like to use? 1
+Number of folds: k = 10
+No. of testing patterns = 761
+Fold = 1
+No. of hidden layer neurons = 9
+No. of weights = 64
+No. of iterations = 33
+Fold 1: Final mean squared error = 0.0181924924437
+Fold = 2
+No. of iterations = 1590
+Fold 2: Final mean squared error = 0.0121059968538
+Fold = 3
+No. of iterations = 64
+Fold 3: Final mean squared error = 0.0170436385424
+Fold = 4
+No. of iterations = 12
+Fold 4: Final mean squared error = 0.0200310436875
+Fold = 5
+No. of iterations = 194
+Fold 5: Final mean squared error = 0.0145240041441
+Fold = 6
+No. of iterations = 539
+Fold 6: Final mean squared error = 0.011913326373
+Fold = 7
+No. of iterations = 3201
+Fold 7: Final mean squared error = 0.00883516625651
+Fold = 8
+No. of iterations = 181
+Fold 8: Final mean squared error = 0.0149286009472
+Fold = 9
+No. of iterations = 12
+Fold 9: Final mean squared error = 0.0234458502068
+Fold = 10
+No. of iterations = 3508
+Fold 10: Final mean squared error = 0.00893449646929
+Average mean squared error for the k MLPs in test.mat = 0.0149954615924
+Average mean squared error for the k validation folds during training = 0.0122734083517
+Ensemble: Mean squared error in test.mat = 0.0128897379511

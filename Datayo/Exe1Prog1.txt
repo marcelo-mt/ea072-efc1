@@ -1,0 +1,22 @@
+Exe1 do prog1.m
+
+Sequ?ncia de entradas que passam a compor o modelo
+ Columns 1 through 21:
+   20   18   17    3   12   19   15    1   16   10    5   22   24   21    2   23    4   25    8    9   11
+ Columns 22 through 25:
+    6   13    7   14
+Evolu??o do erro ao longo da constru??o do modelo
+ Columns 1 through 5:
+   1.40054036155494   1.26778954196700   1.24393955481359   1.22825535003024   1.19678528813395
+ Columns 6 through 10:
+   1.18619046960469   1.17937673525168   1.17523715047480   1.17455726272500   1.17417141021406
+ Columns 11 through 15:
+   1.17352769568796   1.17354883209691   1.17358303203967   1.17391686337823   1.17462112546451
+ Columns 16 through 20:
+   1.17534787478860   1.17611697263000   1.17695224269238   1.17809727122895   1.17906567272774
+ Columns 21 through 25:
+   1.18032743137184   1.18176314952654   1.18310790500840   1.18563094167801   1.18931342579813
+Erro considerando um modelo com as 5 entradas de maior correla??o
+ 1.22775998081489
+Erro considerando um modelo com as 5 entradas de maior correla??o e as 5 entradas aleat?rias
+ 1.23050012155467

@@ -1,0 +1,20 @@
+Sequ?ncia de entradas que deixam de compor o modelo
+ Columns 1 through 21:
+    9    4    6   11   25    2   13   23   14   24    7    8   21   16   22    5   10    1   15   18   19
+ Columns 22 through 25:
+   12    3   17   20
+Evolu??o do erro ao longo da poda do modelo
+ Columns 1 through 5:
+   1.18409526346109   1.18267262946249   1.18133279264755   1.18037784554752   1.17950507214498
+ Columns 6 through 10:
+   1.17864918736514   1.17783103368358   1.17716654398480   1.17651799337563   1.17593573910226
+ Columns 11 through 15:
+   1.17539605670728   1.17504105854139   1.17431229990599   1.17427019759003   1.17469632302257
+ Columns 16 through 20:
+   1.17519265087889   1.17585005920213   1.17683167695521   1.18028797257554   1.18842114170187
+ Columns 21 through 25:
+   1.19860932536466   1.22529006072334   1.26550653248556   1.27438478682029   1.40001896430182
+Erro considerando um modelo com as 5 entradas de maior correla??o
+ 1.22711354942586
+Erro considerando um modelo com as 5 entradas de maior correla??o e as 5 entradas aleat?rias
+ 1.22828882549443

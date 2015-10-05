@@ -1,0 +1,23 @@
+Sequ<EA>ncia de entradas que passam a compor o modelo
+ Columns 1 through 16:
+   20   18   17    3   12   19   15    1   16    5   10   23    7   22    6   11
+ Columns 17 through 25:
+   25   24    9   21    2    4   13    8   14
+Evolu<E7><E3>o do erro ao longo da constru<E7><E3>o do modelo
+ Columns 1 through 4:
+   1.40168640979895   1.26965141758842   1.24707428982510   1.23144000868980
+ Columns 5 through 8:
+   1.19999658354050   1.18902966182204   1.18040178738950   1.17667250609190
+ Columns 9 through 12:
+   1.17603926113126   1.17550238595058   1.17465305977342   1.17448740404721
+ Columns 13 through 16:
+   1.17473682879307   1.17511643373329   1.17552058939384   1.17595852335566
+ Columns 17 through 20:
+   1.17648839010614   1.17707456745266   1.17767133072887   1.17829555358113
+ Columns 21 through 24:
+   1.17909945302440   1.18003662588169   1.18112569955459   1.18237403728078
+ Column 25:
+   1.18424497713075
+Erro considerando um modelo com as 5 entradas de maior correla<E7><E3>o
+ 1.23029330683013
+Erro considerando um modelo com as 5 entradas de maior correla<E7><E3>o e as 5

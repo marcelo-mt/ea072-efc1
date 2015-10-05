@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="413.456mm" height="244.828mm"
+ viewBox="0 0 1172 694"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1170,0 L1170,692 L0,692 L0,0"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.5,692.5 L0.5,0.5 L1169.5,0.5 L1169.5,692.5 L0.5,692.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M36,24 L1155,24 L1155,666 L36,666 L36,24"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,666.5 L35.5,24.5 L1154.5,24.5 L1154.5,666.5 L35.5,666.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,666.5 L35.5,666.5 L1154.5,666.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,666.5 L39.5,666.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,666.5 L1150.5,666.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >0</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,25.9192,670.339)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,542.5 L1154.5,542.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,542.5 L39.5,542.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,542.5 L1150.5,542.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >50</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,20.3629,547.129)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,419.5 L1154.5,419.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,419.5 L39.5,419.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,419.5 L1150.5,419.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >100</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,422.917)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,295.5 L1154.5,295.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,295.5 L39.5,295.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,295.5 L1150.5,295.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >150</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,299.707)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,172.5 L1154.5,172.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,172.5 L39.5,172.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,172.5 L1150.5,172.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >200</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,175.495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,48.5 L1101.5,48.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1149.5,48.5 L1154.5,48.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,48.5 L39.5,48.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1154.5,48.5 L1150.5,48.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >250</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,14.8065,52.2845)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M56.5,666.5 L56.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M56.5,666.5 L56.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M56.5,24.5 L56.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >1750</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,45.1943,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M263.5,666.5 L263.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M263.5,666.5 L263.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M263.5,24.5 L263.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >1800</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,253.55,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M470.5,666.5 L470.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M470.5,666.5 L470.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M470.5,24.5 L470.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >1850</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,460.904,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M678.5,666.5 L678.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M678.5,666.5 L678.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M678.5,24.5 L678.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >1900</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,668.258,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M885.5,666.5 L885.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M885.5,666.5 L885.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M885.5,24.5 L885.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >1950</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,875.611,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#a0a0a4" stroke-opacity="1" stroke-dasharray="0.5,1" stroke-dashoffset="0" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1092.5,666.5 L1092.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1092.5,666.5 L1092.5,662.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1092.5,24.5 L1092.5,28.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >2000</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1083.97,678.353)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M35.5,24.5 L35.5,666.5 L1154.5,666.5 L1154.5,24.5 L35.5,24.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Manchas solares</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1.00171,1.00171,0,10.2127,383.201)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Ano</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,587.33,690.373)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Figura 1. Série SUNSPOT [1749,2013]</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,510.347,15.2213)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Jan</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,34.2538)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,31.5 L1144.5,31.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,523.1 L52.1,523.1 L56.2,485.3 L60.4,493.5 L64.5,579.9 L68.7,557.7 L72.8,666.4 L77,641.2 L81.1,635.5 L85.3,631.6 L89.4,573.5 L93.5,547.1 L97.7,500.1 L101.8,493.5 L106,558.2 L110.1,526.8 L114.3,518.9 L118.4,607.1 L122.6,636.8 L126.7,598.7 L130.9,534.2 L135,483.8 L139.1,409.5 L143.3,577.5 L147.4,417.1 L151.6,531.5 L155.7,550.8 L159.9,655.5 L164,612.8 L168.2,555.2 L172.3,228.4 L176.5,383 L180.6,493.5 L184.8,422.6 L188.9,533 L193,597.2 L197.2,634.3 L201.3,650.3 L205.5,574.5 L209.6,333.6 L213.8,325.5 L217.9,384.8 L222.1,412 L226.2,486.8 L230.4,523.1 L234.5,528.1 L238.7,555.2 L242.8,613.5 L246.9,612.1 L251.1,630.8 L255.2,661.5 L259.4,662.4 L263.5,649.4 L267.7,599.7 L271.8,548.3 L276,542.9 L280.1,554.5 L284.3,515.7 L288.4,570.1 L292.5,636.8 L296.7,666.4 L300.8,648.6 L305,666.4 L309.1,666.4 L313.3,638.5 L317.4,666.4 L321.6,611.6 L325.7,619 L329.9,601.4 L334,576.5 L338.2,580.2 L342.3,585.4 L346.4,619 L350.6,613.3 L354.7,666.4 L358.9,666.4 L363,612.8 L367.2,654 L371.3,622.7 L375.5,580.9 L379.6,536 L383.8,560.2 L387.9,537.4 L392,549.1 L396.2,590.1 L400.3,638.5 L404.5,654.3 L408.6,647.9 L412.8,447.5 L416.9,202 L421.1,308.4 L425.2,405.5 L429.4,465.8 L433.5,606.9 L437.7,616 L441.8,633.5 L445.9,643.2 L450.1,602.9 L454.2,570.8 L458.4,511.8 L462.5,273.4 L466.7,278.5 L470.8,473.7 L475,479.9 L479.1,497.4 L483.3,564.9 L487.4,628.4 L491.6,636 L495.7,665.2 L499.8,632.6 L504,570.1 L508.1,459.6 L512.3,462.8 L516.4,512.5 L520.6,510.5 L524.7,547.1 L528.9,523.9 L533,546.1 L537.2,588.3 L541.3,666.4 L545.4,627.9 L549.6,516 L553.7,475.4 L557.9,448.3 L562,470 L566.2,452.2 L570.3,516.2 L574.5,630.3 L578.6,631.1 L582.8,606.1 L586.9,658.2 L591.1,663.9 L595.2,607.1 L599.3,576.5 L603.5,555.2 L607.6,516.7 L611.8,440.4 L615.9,560.7 L620.1,592.5 L624.2,641 L628.4,635 L632.5,664.4 L636.7,653.3 L640.8,633 L645,495.7 L649.1,481.1 L653.2,460.9 L657.4,510 L661.5,594.8 L665.7,566.1 L669.8,591.8 L674,618.2 L678.1,643.2 L682.3,665.9 L686.4,652.8 L690.6,645.9 L694.7,588.3 L698.8,531 L703,554 L707.1,477.7 L711.3,569.6 L715.4,526.3 L719.6,601.2 L723.7,658 L727.9,665.7 L732,660.7 L736.2,659.5 L740.3,609.6 L744.5,554.5 L748.6,481.9 L752.7,429.2 L756.9,547.6 L761,540.2 L765.2,588.6 L769.3,637.2 L773.5,655.3 L777.6,665.2 L781.8,652.8 L785.9,489 L790.1,464.8 L794.2,460.1 L798.4,496.2 L802.5,505.1 L806.6,630.3 L810.8,636.5 L814.9,636 L819.1,658 L823.2,620.5 L827.4,511.3 L831.5,339.1 L835.7,423.3 L839.8,468 L844,541.6 L848.1,553.8 L852.2,578.5 L856.4,635.8 L860.5,657.3 L864.7,620.7 L868.8,548.8 L873,380.6 L877.1,398.4 L881.3,372.2 L885.4,415.4 L889.6,518.4 L893.7,565.9 L897.9,600.9 L902,665.9 L906.1,609.3 L910.3,484.6 L914.4,258.8 L918.6,166.1 L922.7,129.3 L926.9,305 L931,523.4 L935.2,570.8 L939.3,617.5 L943.5,628.6 L947.6,623.2 L951.7,596.7 L955.9,392.4 L960,365.5 L964.2,408.5 L968.3,391 L972.5,440.9 L976.6,514.5 L980.8,559.2 L984.9,598.2 L989.1,619.7 L993.2,646.4 L997.4,625.9 L1001.5,538.2 L1005.6,254.8 L1009.8,272.1 L1013.9,384.8 L1018.1,391.7 L1022.2,458.1 L1026.4,525.6 L1030.5,625.6 L1034.7,660.2 L1038.8,640.7 L1043,520.6 L1047.1,267.9 L1051.3,228.4 L1055.4,328.2 L1059.5,295.8 L1063.7,519.9 L1067.8,523.6 L1072,606.6 L1076.1,638 L1080.3,652.3 L1084.4,587.6 L1088.6,513.2 L1092.7,443.8 L1096.9,430.2 L1101,384.5 L1105.1,469.5 L1109.3,574.3 L1113.4,589.1 L1117.6,628.4 L1121.7,624.9 L1125.9,658.2 L1130,663.2 L1134.2,633.8 L1138.3,620 L1142.5,522.4 L1146.6,511"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Fev</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1102.37,42.2674)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#008000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,39.5 L1144.5,39.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#008000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,511.8 L52.1,511.8 L56.2,478.9 L60.4,558.9 L64.5,542.9 L68.7,587.3 L72.8,659 L77,638.7 L81.1,648.9 L85.3,614 L89.4,537.9 L93.5,557.7 L97.7,519.4 L101.8,441.6 L106,486.6 L110.1,587.6 L114.3,518.9 L118.4,602.2 L122.6,639.2 L126.7,592.3 L130.9,503.1 L135,507.8 L139.1,314.4 L143.3,552.3 L147.4,442.1 L151.6,594.8 L155.7,504.8 L159.9,666.4 L164,637.7 L168.2,576.2 L172.3,396.4 L176.5,257.1 L180.6,424.3 L184.8,481.9 L188.9,573.8 L193,570.8 L197.2,646.6 L201.3,646.6 L205.5,548.8 L209.6,404.5 L213.8,347.2 L217.9,356.9 L222.1,351.4 L226.2,513.2 L230.4,508.3 L234.5,530.5 L238.7,557.7 L242.8,567.8 L246.9,607.6 L251.1,656 L255.2,656.5 L259.4,635.3 L263.5,643.4 L267.7,594.8 L271.8,550.3 L276,540.9 L280.1,547.1 L284.3,557.5 L288.4,593.3 L292.5,636.3 L296.7,655.3 L300.8,643.7 L305,666.4 L309.1,666.4 L313.3,661.7 L317.4,641 L321.6,636.8 L325.7,586.9 L329.9,496.4 L334,523.4 L338.2,611.1 L342.3,615.3 L346.4,600.7 L350.6,656 L354.7,664.2 L358.9,666.4 L363,639.7 L367.2,628.1 L371.3,621.4 L375.5,549.3 L379.6,507.3 L383.8,544.4 L387.9,488.3 L392,542.6 L396.2,529 L400.3,629.6 L404.5,621.7 L408.6,605.9 L412.8,400.6 L416.9,232.6 L421.1,456.9 L425.2,413.2 L429.4,449.7 L433.5,592.5 L437.7,611.8 L441.8,657.8 L445.9,630.1 L450.1,558.7 L454.2,540.4 L458.4,555.5 L462.5,390.2 L466.7,341.1 L470.8,445.5 L475,406 L479.1,502.4 L483.3,560.4 L487.4,617 L491.6,638.2 L495.7,654.3 L499.8,648.1 L504,580.2 L508.1,450 L512.3,448.3 L516.4,474.5 L520.6,507.1 L524.7,526.3 L528.9,550 L533,569.3 L537.2,571.5 L541.3,664.7 L545.4,627.6 L549.6,518.4 L553.7,382.6 L557.9,356.9 L562,369.7 L566.2,402.1 L570.3,507.8 L574.5,613.3 L578.6,629.3 L582.8,644.9 L586.9,650.1 L591.1,664.9 L595.2,599.2 L599.3,535 L603.5,494.7 L607.6,550.5 L611.8,451.7 L615.9,489 L620.1,602.4 L624.2,633.8 L628.4,648.9 L632.5,645.4 L636.7,664.9 L640.8,611.6 L645,479.6 L649.1,486.1 L653.2,457.4 L657.4,500.4 L661.5,524.6 L665.7,593.8 L669.8,576.5 L674,643.7 L678.1,632.8 L682.3,660.5 L686.4,666.4 L690.6,624.4 L694.7,605.9 L698.8,454.4 L703,589.1 L707.1,399.1 L711.3,582.7 L715.4,551.3 L719.6,588.6 L723.7,644.2 L727.9,666.4 L732,659.2 L736.2,660 L740.3,561.9 L744.5,529.5 L748.6,488.8 L752.7,505.1 L756.9,470 L761,533.2 L765.2,596.5 L769.3,601.2 L773.5,662.7 L777.6,653.8 L781.8,609.1 L785.9,493.7 L790.1,436.7 L794.2,484.8 L798.4,511.3 L802.5,543.1 L806.6,559.9 L810.8,640.2 L814.9,611.6 L819.1,647.1 L823.2,615.8 L827.4,482.9 L831.5,349 L835.7,371.9 L839.8,475.2 L844,519.7 L848.1,556.5 L852.2,536 L856.4,595 L860.5,665.2 L864.7,635 L868.8,453.5 L873,336.9 L877.1,453.7 L881.3,216 L885.4,432.2 L889.6,518.4 L893.7,610.3 L897.9,656.8 L902,665.2 L906.1,615 L910.3,360.1 L914.4,344.8 L918.6,259 L922.7,312.9 L926.9,404.5 L931,552.5 L935.2,542.1 L939.3,606.1 L943.5,622.7 L947.6,631.3 L951.7,606.1 L955.9,435.2 L960,390 L964.2,368.7 L968.3,350.7 L972.5,471.2 L976.6,448 L980.8,560.4 L984.9,602.2 L989.1,638 L993.2,655.8 L997.4,609.3 L1001.5,435.2 L1005.6,326.7 L1009.8,283.5 L1013.9,317.3 L1018.1,262.2 L1022.2,540.4 L1026.4,455.4 L1030.5,627.1 L1034.7,609.1 L1038.8,660.5 L1043,567.6 L1047.1,258.5 L1051.3,344 L1055.4,252.6 L1059.5,268.4 L1063.7,441.6 L1067.8,578.7 L1072,592.5 L1076.1,655.5 L1080.3,647.6 L1084.4,566.8 L1088.6,502.6 L1092.7,387.5 L1096.9,467.3 L1101,401.1 L1105.1,552.8 L1109.3,553.3 L1113.4,594.3 L1117.6,654.8 L1121.7,640 L1125.9,661.2 L1130,662.9 L1134.2,620 L1138.3,593.3 L1142.5,585.1 L1146.6,572.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Mar</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.82,50.2811)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,47.5 L1144.5,47.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,493.5 L52.1,493.5 L56.2,446 L60.4,554.5 L64.5,491 L68.7,553.5 L72.8,662.2 L77,649.6 L81.1,653.1 L85.3,601.7 L89.4,545.4 L93.5,550.8 L97.7,481.9 L101.8,467 L106,553.5 L110.1,581.9 L114.3,567.1 L118.4,604.6 L122.6,576 L126.7,560.2 L130.9,552 L135,507.6 L139.1,468.5 L143.3,551 L147.4,589.6 L151.6,539.9 L155.7,528.8 L159.9,637.7 L164,650.8 L168.2,570.1 L172.3,335.4 L176.5,374.9 L180.6,424.3 L184.8,535.5 L188.9,575 L193,600.4 L197.2,639.2 L201.3,644.2 L205.5,548.6 L209.6,450.5 L213.8,312.4 L217.9,370 L222.1,428.5 L226.2,483.6 L230.4,510.8 L234.5,529.3 L238.7,572.5 L242.8,635.3 L246.9,627.6 L251.1,656.5 L255.2,635.8 L259.4,612.8 L263.5,632.1 L267.7,592.3 L271.8,565.6 L276,593.5 L280.1,547.8 L284.3,539.4 L288.4,585.6 L292.5,642.7 L296.7,666.4 L300.8,664.2 L305,666.4 L309.1,666.4 L313.3,664.7 L317.4,661.7 L321.6,652.3 L325.7,601.7 L329.9,484.3 L334,428.7 L338.2,603.7 L342.3,657.3 L346.4,655.3 L350.6,652.3 L354.7,626.6 L358.9,664.9 L363,666.4 L367.2,611.1 L371.3,575.7 L375.5,523.6 L379.6,505.8 L383.8,487.8 L387.9,457.4 L392,435.7 L396.2,530.3 L400.3,637.2 L404.5,656.8 L408.6,617.7 L412.8,423.8 L416.9,333.9 L421.1,318.6 L425.2,474.5 L429.4,498.9 L433.5,593 L437.7,612.8 L441.8,645.9 L445.9,632.8 L450.1,559.4 L454.2,508.5 L458.4,454.7 L462.5,398.1 L466.7,428.7 L470.8,462.3 L475,506.8 L479.1,515.2 L483.3,573.3 L487.4,615.3 L491.6,623.4 L495.7,665.4 L499.8,653.6 L504,524.4 L508.1,443.3 L512.3,422.1 L516.4,416.9 L520.6,558.7 L524.7,502.4 L528.9,502.6 L533,568.8 L537.2,605.6 L541.3,643.7 L545.4,600.9 L549.6,536.2 L553.7,277.1 L557.9,312.6 L562,448 L566.2,423.6 L570.3,551.8 L574.5,582.9 L578.6,590.8 L582.8,637 L586.9,647.1 L591.1,666.4 L595.2,618.7 L599.3,539.2 L603.5,501.4 L607.6,560.7 L611.8,450.2 L615.9,543.4 L620.1,524.8 L624.2,656 L628.4,647.1 L632.5,649.8 L636.7,653.8 L640.8,640.7 L645,543.1 L649.1,504.1 L653.2,537.2 L657.4,515.7 L661.5,537.9 L665.7,594.5 L669.8,571.8 L674,621.7 L678.1,645.2 L682.3,655.3 L686.4,635.8 L690.6,633 L694.7,574.5 L698.8,526.8 L703,507.1 L707.1,516.4 L711.3,595.5 L715.4,502.6 L719.6,613.5 L723.7,647.1 L727.9,654.3 L732,665.2 L736.2,658.7 L740.3,570.5 L744.5,500.9 L748.6,432.2 L752.7,488 L756.9,502.1 L761,493 L765.2,600.4 L769.3,531.3 L773.5,658.2 L777.6,662 L781.8,621.9 L785.9,512 L790.1,494.5 L794.2,455.4 L798.4,542.4 L802.5,579.9 L806.6,592.3 L810.8,638.7 L814.9,641.4 L819.1,655.8 L823.2,609.3 L827.4,475.9 L831.5,459.1 L835.7,452.7 L839.8,506.8 L844,460.6 L848.1,551.8 L852.2,532.5 L856.4,598.7 L860.5,639.2 L864.7,613.3 L868.8,477.2 L873,345.7 L877.1,432.2 L881.3,277.3 L885.4,395.4 L889.6,528.3 L893.7,612.1 L897.9,641.7 L902,639.5 L906.1,654.3 L910.3,373.9 L914.4,277.6 L918.6,195.3 L922.7,207.6 L926.9,413.9 L931,535.5 L935.2,553.8 L939.3,624.2 L943.5,625.6 L947.6,637.5 L951.7,603.9 L955.9,390.2 L960,438.6 L964.2,330.9 L968.3,412.2 L972.5,516.4 L976.6,468.5 L980.8,552.8 L984.9,613.8 L989.1,638 L993.2,612.3 L997.4,644.9 L1001.5,477.4 L1005.6,325.5 L1009.8,354.6 L1013.9,331.7 L1018.1,286.5 L1022.2,502.1 L1026.4,460.1 L1030.5,623.9 L1034.7,629.1 L1038.8,630.1 L1043,478.2 L1047.1,341.8 L1051.3,319.8 L1055.4,315.9 L1059.5,402.8 L1063.7,494 L1067.8,588.1 L1072,589.6 L1076.1,643.7 L1080.3,644.9 L1084.4,531 L1088.6,496.4 L1092.7,324.3 L1096.9,386 L1101,423.3 L1105.1,515.5 L1109.3,545.1 L1113.4,605.9 L1117.6,639.7 L1121.7,655.3 L1125.9,643.4 L1130,664.7 L1134.2,628.6 L1138.3,528.6 L1142.5,507.6 L1146.6,523.4"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Abr</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.49,58.2948)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#00bfbf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,55.5 L1144.5,55.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#00bfbf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,528.8 L52.1,528.8 L56.2,448.3 L60.4,527.1 L64.5,519.9 L68.7,572.5 L72.8,632.6 L77,650.3 L81.1,643.2 L85.3,592.3 L89.4,487.8 L93.5,550.3 L97.7,522.4 L101.8,489.3 L106,517.7 L110.1,585.1 L114.3,581.4 L118.4,612.1 L122.6,651.6 L126.7,585.1 L130.9,560.9 L135,427.5 L139.1,540.4 L143.3,506.1 L147.4,438.6 L151.6,585.1 L155.7,558.2 L159.9,638.7 L164,612.5 L168.2,430.5 L172.3,308.2 L176.5,308.2 L180.6,431.7 L184.8,497.7 L188.9,565.1 L193,596.5 L197.2,641.7 L201.3,627.6 L205.5,455.4 L209.6,352.2 L213.8,398.4 L217.9,361.8 L222.1,434.2 L226.2,475.7 L230.4,479.4 L234.5,535.5 L238.7,596.2 L242.8,620.5 L246.9,588.1 L251.1,656.5 L255.2,663.7 L259.4,645.6 L263.5,666.4 L267.7,589.8 L271.8,562.6 L276,604.6 L280.1,541.4 L284.3,573.8 L288.4,598 L292.5,607.6 L296.7,636 L300.8,660.2 L305,666.4 L309.1,666.4 L313.3,666.4 L317.4,625.4 L321.6,607.6 L325.7,588.3 L329.9,521.1 L334,601.2 L338.2,581.2 L342.3,616.5 L346.4,618.5 L350.6,643.7 L354.7,633 L358.9,666.4 L363,618.5 L367.2,657 L371.3,607.1 L375.5,552.8 L379.6,515.5 L383.8,431.7 L387.9,403.8 L392,531.8 L396.2,599.9 L400.3,659.5 L404.5,662.9 L408.6,514.5 L412.8,313.4 L416.9,325 L421.1,353.6 L425.2,513.7 L429.4,503.6 L433.5,567.1 L437.7,599.9 L441.8,642.9 L445.9,615 L450.1,525.6 L454.2,495.2 L458.4,556 L462.5,401.8 L466.7,413.2 L470.8,557.5 L475,526.8 L479.1,504.8 L483.3,548.8 L487.4,600.9 L491.6,655.5 L495.7,650.3 L499.8,639 L504,571.8 L508.1,454.7 L512.3,490 L516.4,423.1 L520.6,533.7 L524.7,566.1 L528.9,578 L533,593.8 L537.2,622.9 L541.3,653.8 L545.4,576 L549.6,565.1 L553.7,271.1 L557.9,265.2 L562,414.2 L566.2,478.2 L570.3,587.3 L574.5,594.5 L578.6,660.7 L582.8,627.4 L586.9,666.2 L591.1,651.1 L595.2,618.2 L599.3,538.9 L603.5,429.7 L607.6,463.6 L611.8,478.4 L615.9,530.5 L620.1,558.4 L624.2,649.4 L628.4,653.8 L632.5,655.8 L636.7,662.4 L640.8,615.8 L645,494.5 L649.1,448.8 L653.2,464.8 L657.4,476.4 L661.5,558.2 L665.7,589.8 L669.8,630.6 L674,631.3 L678.1,626.9 L682.3,666.4 L686.4,666.4 L690.6,601.9 L694.7,560.2 L698.8,569.3 L703,529.8 L707.1,536.5 L711.3,524.1 L715.4,586.6 L719.6,645.6 L723.7,625.6 L727.9,655.3 L732,664.2 L736.2,623.7 L740.3,564.4 L744.5,489 L748.6,481.9 L752.7,467.5 L756.9,538.4 L761,629.8 L765.2,586.4 L769.3,639.2 L773.5,651.3 L777.6,638.5 L781.8,588.1 L785.9,571.3 L790.1,435.4 L794.2,467.3 L798.4,536 L802.5,572 L806.6,589.3 L810.8,638.7 L814.9,659.2 L819.1,638.5 L823.2,636.3 L827.4,481.4 L831.5,396.4 L835.7,416.9 L839.8,396.9 L844,516.4 L848.1,585.4 L852.2,516.4 L856.4,601.9 L860.5,665.7 L864.7,587.3 L868.8,479.4 L873,296.3 L877.1,197.8 L881.3,303.3 L885.4,386.3 L889.6,436.9 L893.7,594.5 L897.9,597.7 L902,662 L906.1,638.5 L910.3,392.9 L914.4,233.6 L918.6,182.2 L922.7,263 L926.9,365 L931,514.7 L935.2,551.8 L939.3,594 L943.5,645.2 L947.6,649.6 L951.7,546.1 L955.9,494.7 L960,465.8 L964.2,402.6 L968.3,395.9 L972.5,489 L976.6,510.3 L980.8,523.9 L984.9,566.8 L989.1,653.8 L993.2,620 L997.4,634.5 L1001.5,420.1 L1005.6,415.7 L1009.8,261 L1013.9,280 L1018.1,365 L1022.2,467 L1026.4,494.2 L1030.5,626.4 L1034.7,620.7 L1038.8,568.6 L1043,449 L1047.1,343.8 L1051.3,319.8 L1055.4,320.5 L1059.5,419.9 L1063.7,512.7 L1067.8,626.6 L1072,631.8 L1076.1,654.5 L1080.3,628.1 L1084.4,534.5 L1088.6,509 L1092.7,356.4 L1096.9,400.3 L1101,368.2 L1105.1,518.2 L1109.3,569.3 L1113.4,606.6 L1117.6,591.8 L1121.7,658 L1125.9,659.2 L1130,664.4 L1134.2,646.6 L1138.3,532 L1142.5,530 L1146.6,487.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Mai</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.48,66.3085)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bf00bf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,63.5 L1144.5,63.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bf00bf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,456.4 L52.1,456.4 L56.2,444.1 L60.4,516.4 L64.5,518.9 L68.7,577.5 L72.8,615.3 L77,666.4 L81.1,635.5 L85.3,572.3 L89.4,551.8 L93.5,545.4 L97.7,488.5 L101.8,401.6 L106,567.8 L110.1,585.6 L114.3,557 L118.4,616.5 L122.6,600.2 L126.7,592.8 L130.9,474.5 L135,484.6 L139.1,493.2 L143.3,289.2 L147.4,572.5 L151.6,564.9 L155.7,539.7 L159.9,656.8 L164,638.7 L168.2,468 L172.3,76.2 L176.5,320.5 L180.6,401.6 L184.8,407.8 L188.9,532.3 L193,609.6 L197.2,651.6 L201.3,615.3 L205.5,438.4 L209.6,333.4 L213.8,387.2 L217.9,361.3 L222.1,436.7 L226.2,484.3 L230.4,513.2 L234.5,537.2 L238.7,528.8 L242.8,589.8 L246.9,614.5 L251.1,648.4 L255.2,666.4 L259.4,646.1 L263.5,654 L267.7,587.3 L271.8,557.7 L276,557 L280.1,583.9 L284.3,570.1 L288.4,601.2 L292.5,641.7 L296.7,633 L300.8,661.5 L305,666.4 L309.1,666.4 L313.3,663.9 L317.4,652.8 L321.6,652.1 L325.7,642.2 L329.9,557 L334,614 L338.2,535.2 L342.3,618 L346.4,594 L350.6,662.2 L354.7,662.7 L358.9,666.4 L363,659.5 L367.2,628.1 L371.3,586.4 L375.5,527.3 L379.6,446.3 L383.8,499.9 L387.9,502.6 L392,572.3 L396.2,564.4 L400.3,634.5 L404.5,644.7 L408.6,558.7 L412.8,391.2 L416.9,390.5 L421.1,326.5 L425.2,533.5 L429.4,495.4 L433.5,499.6 L437.7,604.9 L441.8,614.3 L445.9,637.7 L450.1,548.3 L454.2,518.4 L458.4,480.1 L462.5,413.9 L466.7,467.3 L470.8,514.2 L475,511.8 L479.1,530.8 L483.3,580.7 L487.4,607.1 L491.6,643.9 L495.7,666.4 L499.8,595.7 L504,564.1 L508.1,441.6 L512.3,401.8 L516.4,526.1 L520.6,507.3 L524.7,533.5 L528.9,566.1 L533,581.2 L537.2,634.5 L541.3,659.2 L545.4,600.4 L549.6,409.7 L553.7,231.6 L557.9,307 L562,400.6 L566.2,548.1 L570.3,556.2 L574.5,638 L578.6,653.8 L582.8,613 L586.9,651.8 L591.1,660.5 L595.2,608.3 L599.3,558.9 L603.5,508 L607.6,588.6 L611.8,502.1 L615.9,486.1 L620.1,590.6 L624.2,617 L628.4,649.1 L632.5,660.5 L636.7,654.5 L640.8,564.9 L645,469.8 L649.1,457.2 L653.2,416.4 L657.4,499.6 L661.5,598 L665.7,617 L669.8,602.7 L674,647.4 L678.1,628.9 L682.3,641.2 L686.4,659.5 L690.6,630.3 L694.7,568.8 L698.8,547.8 L703,523.9 L707.1,560.4 L711.3,565.6 L715.4,577.5 L719.6,611.6 L723.7,644.2 L727.9,655.5 L732,666.4 L736.2,653.6 L740.3,584.9 L744.5,482.4 L748.6,384.5 L752.7,476.9 L756.9,448.8 L761,584.1 L765.2,611.6 L769.3,646.6 L773.5,658.5 L777.6,615 L781.8,560.7 L785.9,507.6 L790.1,471 L794.2,476.2 L798.4,522.6 L802.5,575.5 L806.6,605.6 L810.8,622.2 L814.9,658.5 L819.1,617.7 L823.2,599 L827.4,531.5 L831.5,378.1 L835.7,351.7 L839.8,374.2 L844,532 L848.1,593.5 L852.2,604.6 L856.4,631.6 L860.5,660.2 L864.7,590.8 L868.8,456.7 L873,169.1 L877.1,236.6 L881.3,404 L885.4,404 L889.6,398.4 L893.7,608.6 L897.9,635.5 L902,664.4 L906.1,595 L910.3,328.9 L914.4,259.8 L918.6,233.3 L922.7,241.5 L926.9,370.9 L931,540.4 L935.2,558.4 L939.3,560.2 L943.5,642.9 L947.6,606.9 L951.7,554.5 L955.9,452.7 L960,352.2 L964.2,370 L968.3,351.4 L972.5,524.4 L976.6,467.5 L980.8,561.7 L984.9,568.8 L989.1,644.2 L993.2,635.8 L997.4,620.5 L1001.5,462.1 L1005.6,334.4 L1009.8,222 L1013.9,351.4 L1018.1,463.3 L1022.2,421.3 L1026.4,477.7 L1030.5,598.5 L1034.7,632.6 L1038.8,584.9 L1043,517.9 L1047.1,324.3 L1051.3,339.8 L1055.4,366.7 L1059.5,484.1 L1063.7,515 L1067.8,622.4 L1072,630.6 L1076.1,652.8 L1080.3,620.7 L1084.4,527.3 L1088.6,403.6 L1092.7,366 L1096.9,427.8 L1101,368 L1105.1,531.5 L1109.3,563.9 L1113.4,560.9 L1117.6,611.3 L1121.7,637.5 L1125.9,658.5 L1130,659.2 L1134.2,644.9 L1138.3,563.9 L1142.5,495.9 L1146.6,472"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Jun</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.45,74.3221)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bfbf00" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,71.5 L1144.5,71.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bfbf00" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,460.1 L52.1,460.1 L56.2,419.4 L60.4,541.2 L64.5,568.6 L68.7,588.1 L72.8,600.4 L77,666.4 L81.1,634.5 L85.3,634.8 L89.4,555.2 L93.5,542.9 L97.7,547.1 L101.8,421.1 L106,475.9 L110.1,578 L114.3,592.3 L118.4,617 L122.6,659 L126.7,584.1 L130.9,475.2 L135,433.2 L139.1,460.6 L143.3,371.2 L147.4,525.6 L151.6,596.2 L155.7,596 L159.9,636 L164,619.5 L168.2,467 L172.3,242.5 L176.5,385.5 L180.6,449 L184.8,425 L188.9,572.5 L193,604.1 L197.2,644.2 L201.3,601.4 L205.5,520.6 L209.6,421.3 L213.8,285.5 L217.9,370 L222.1,441.6 L226.2,507.8 L230.4,515.7 L234.5,540.4 L238.7,563.9 L242.8,624.2 L246.9,649.8 L251.1,639 L255.2,666.4 L259.4,640.2 L263.5,607.9 L267.7,589.3 L271.8,552.8 L276,577.5 L280.1,580.4 L284.3,566.3 L288.4,603.2 L292.5,636.8 L296.7,633 L300.8,647.4 L305,666.4 L309.1,666.4 L313.3,663.2 L317.4,638.7 L321.6,629.6 L325.7,528.3 L329.9,558.7 L334,567.6 L338.2,576.5 L342.3,579.9 L346.4,639.7 L350.6,662 L354.7,652.6 L358.9,666.4 L363,666.4 L367.2,628.4 L371.3,574.7 L375.5,526.3 L379.6,424.3 L383.8,483.8 L387.9,505.6 L392,583.9 L396.2,600.4 L400.3,663.9 L404.5,647.1 L408.6,584.4 L412.8,358.3 L416.9,276.1 L421.1,432.9 L425.2,531.5 L429.4,546.6 L433.5,528.8 L437.7,615.8 L441.8,640.5 L445.9,657.3 L450.1,589.6 L454.2,505.6 L458.4,455.7 L462.5,347.7 L466.7,466.1 L470.8,493.5 L475,510.3 L479.1,550.5 L483.3,567.6 L487.4,614.3 L491.6,653.3 L495.7,653.6 L499.8,626.9 L504,556.5 L508.1,451.2 L512.3,398.1 L516.4,448.8 L520.6,458.9 L524.7,565.6 L528.9,523.6 L533,583.4 L537.2,625.6 L541.3,662.7 L545.4,589.6 L549.6,398.6 L553.7,331.4 L557.9,439.9 L562,394.9 L566.2,555.7 L570.3,572 L574.5,607.4 L578.6,662.4 L582.8,631.3 L586.9,650.6 L591.1,654.5 L595.2,582.2 L599.3,516.9 L603.5,554.7 L607.6,477.9 L611.8,539.9 L615.9,459.6 L620.1,599.5 L624.2,627.6 L628.4,648.9 L632.5,650.6 L636.7,663.2 L640.8,547.1 L645,477.9 L649.1,444.3 L653.2,422.1 L657.4,489.8 L661.5,545.4 L665.7,638.5 L669.8,611.3 L674,615.8 L678.1,636.5 L682.3,652.1 L686.4,662.9 L690.6,626.1 L694.7,562.9 L698.8,545.4 L703,510.3 L707.1,566.6 L711.3,547.6 L715.4,610.6 L719.6,636 L723.7,661 L727.9,656.3 L732,666.4 L736.2,638.2 L740.3,496.4 L744.5,499.2 L748.6,382.6 L752.7,519.7 L756.9,391.7 L761,570.8 L765.2,583.1 L769.3,652.1 L773.5,643.9 L777.6,607.1 L781.8,549.1 L785.9,484.8 L790.1,520.4 L794.2,440.6 L798.4,488.8 L802.5,595.3 L806.6,628.6 L810.8,611.6 L814.9,653.6 L819.1,649.8 L823.2,553.5 L827.4,493.5 L831.5,344.5 L835.7,425.5 L839.8,416.9 L844,459.1 L848.1,518.7 L852.2,638.2 L856.4,647.6 L860.5,654 L864.7,577 L868.8,484.8 L873,261.5 L877.1,251.9 L881.3,365.8 L885.4,459.9 L889.6,417.9 L893.7,576.5 L897.9,612.5 L902,665.9 L906.1,588.1 L910.3,378.4 L914.4,170.6 L918.6,242.7 L922.7,249.6 L926.9,394.2 L931,475.2 L935.2,562.6 L939.3,577.7 L943.5,643.9 L947.6,627.1 L951.7,548.6 L955.9,500.1 L960,393.9 L964.2,404.5 L968.3,402.6 L972.5,543.4 L976.6,449 L980.8,573.8 L984.9,577.5 L989.1,638.2 L993.2,636.3 L997.4,571.3 L1001.5,431.5 L1005.6,297.1 L1009.8,277.8 L1013.9,441.8 L1018.1,393.7 L1022.2,441.3 L1026.4,552.5 L1030.5,606.6 L1034.7,663.7 L1038.8,623.4 L1043,414.9 L1047.1,181.7 L1051.3,406 L1055.4,247.2 L1059.5,505.3 L1063.7,543.4 L1067.8,597.2 L1072,627.9 L1076.1,637.2 L1080.3,635 L1084.4,491.7 L1088.6,326.2 L1092.7,357.8 L1096.9,335.4 L1101,448.3 L1105.1,475.2 L1109.3,559.7 L1113.4,569.3 L1117.6,632.1 L1121.7,636.5 L1125.9,658 L1130,659.2 L1134.2,632.8 L1138.3,575 L1142.5,507.1 L1146.6,536.7"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Jul</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1106.81,82.3358)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#404040" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,79.5 L1144.5,79.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#404040" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,432.2 L52.1,432.2 L56.2,455.4 L60.4,502.6 L64.5,472.7 L68.7,612.1 L72.8,620 L77,645.2 L81.1,657.5 L85.3,604.6 L89.4,557.7 L93.5,540.4 L97.7,503.4 L101.8,433.9 L106,582.9 L110.1,532.5 L114.3,592.3 L118.4,599.7 L122.6,658.2 L126.7,612.3 L130.9,536.5 L135,373.4 L139.1,395.2 L143.3,499.2 L147.4,475.4 L151.6,598 L155.7,623.2 L159.9,663.9 L164,663.9 L168.2,431.7 L172.3,288.4 L176.5,313.1 L180.6,453.9 L184.8,484.8 L188.9,575 L193,586.9 L197.2,651.6 L201.3,576.7 L205.5,461.4 L209.6,350.2 L213.8,316.8 L217.9,377.4 L222.1,495.2 L226.2,491 L230.4,553.3 L234.5,542.9 L238.7,565.1 L242.8,634.5 L246.9,599.9 L251.1,655.8 L255.2,666.4 L259.4,661.2 L263.5,614.5 L267.7,579.9 L271.8,547.8 L276,547.1 L280.1,592.8 L284.3,573.5 L288.4,592.3 L292.5,635 L296.7,649.8 L300.8,665.7 L305,666.4 L309.1,650.1 L313.3,665.2 L317.4,621.2 L321.6,620.7 L325.7,578.7 L329.9,570.5 L334,542.9 L338.2,597.2 L342.3,588.8 L346.4,615.5 L350.6,660.2 L354.7,646.9 L358.9,665.2 L363,666.4 L367.2,590.1 L371.3,536.7 L375.5,561.9 L379.6,532.5 L383.8,442.1 L387.9,558 L392,554.7 L396.2,631.8 L400.3,649.1 L404.5,644.9 L408.6,518.7 L412.8,378.1 L416.9,264.2 L421.1,399.1 L425.2,456.9 L429.4,516.4 L433.5,590.3 L437.7,635.3 L441.8,642.9 L445.9,614 L450.1,590.8 L454.2,551.5 L458.4,537.4 L462.5,322.5 L466.7,473.7 L470.8,569.8 L475,577.2 L479.1,562.4 L483.3,553 L487.4,620.2 L491.6,665.4 L495.7,655 L499.8,611.6 L504,526.3 L508.1,431.2 L512.3,378.1 L516.4,473.7 L520.6,485.1 L524.7,585.6 L528.9,531.3 L533,600.2 L537.2,643.4 L541.3,654 L545.4,594.8 L549.6,520.2 L553.7,339.3 L557.9,412 L562,405.8 L566.2,501.1 L570.3,498.9 L574.5,635.5 L578.6,628.9 L582.8,651.6 L586.9,666.2 L591.1,647.9 L595.2,612.3 L599.3,476.4 L603.5,554.2 L607.6,467.3 L611.8,535.2 L615.9,502.1 L620.1,591.5 L624.2,608.8 L628.4,658.7 L632.5,643.2 L636.7,637.7 L640.8,521.1 L645,477.4 L649.1,447.5 L653.2,404.5 L657.4,548.3 L661.5,555.2 L665.7,598.2 L669.8,644.2 L674,633 L678.1,645.9 L682.3,664.7 L686.4,664.2 L690.6,597.5 L694.7,541.4 L698.8,486.1 L703,410.5 L707.1,543.6 L711.3,568.8 L715.4,578 L719.6,631.6 L723.7,657.8 L727.9,659 L732,662.2 L736.2,653.1 L740.3,489.5 L744.5,534.2 L748.6,370.4 L752.7,400.6 L756.9,506.6 L761,598.5 L765.2,562.9 L769.3,639.5 L773.5,657.8 L777.6,597 L781.8,571.3 L785.9,537.2 L790.1,530.8 L794.2,424.3 L798.4,493 L802.5,612.3 L806.6,623.4 L810.8,642.7 L814.9,659.5 L819.1,643.4 L823.2,582.7 L827.4,537.2 L831.5,307.9 L835.7,258 L839.8,425.3 L844,499.6 L848.1,501.1 L852.2,622.7 L856.4,633.8 L860.5,654 L864.7,561.2 L868.8,379.3 L873,276.3 L877.1,315.1 L881.3,355.6 L885.4,441.6 L889.6,514.5 L893.7,569.3 L897.9,645.2 L902,654.5 L906.1,600.4 L910.3,347.5 L914.4,203.9 L918.6,193.6 L922.7,296.8 L926.9,365.8 L931,493 L935.2,612.5 L939.3,618 L943.5,658.7 L947.6,637 L951.7,526.3 L955.9,440.4 L960,429 L964.2,427.3 L968.3,388.5 L972.5,466.3 L976.6,477.4 L980.8,609.3 L984.9,528.6 L989.1,596.7 L993.2,661.7 L997.4,613.5 L1001.5,492.5 L1005.6,272.6 L1009.8,329.7 L1013.9,311.2 L1018.1,404.3 L1022.2,463.3 L1026.4,574 L1030.5,590.6 L1034.7,621.7 L1038.8,584.9 L1043,385.3 L1047.1,352.9 L1051.3,297.3 L1055.4,237.3 L1059.5,454.7 L1063.7,523.4 L1067.8,579.7 L1072,630.6 L1076.1,646.1 L1080.3,640.7 L1084.4,501.9 L1088.6,386 L1092.7,246.2 L1096.9,464.3 L1101,420.3 L1105.1,460.6 L1109.3,540.2 L1113.4,567.3 L1117.6,636.3 L1121.7,642.4 L1125.9,664.4 L1130,658.5 L1134.2,626.6 L1138.3,558.2 L1142.5,502.1 L1146.6,525.6"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Ago</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.54,90.3495)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,87.5 L1144.5,87.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,502.6 L52.1,502.6 L56.2,412 L60.4,518.7 L64.5,594 L68.7,570.1 L72.8,636 L77,658.5 L81.1,650.6 L85.3,539.7 L89.4,570.8 L93.5,490.3 L97.7,479.6 L101.8,441.3 L106,499.2 L110.1,600.9 L114.3,592.3 L118.4,593 L122.6,656.5 L126.7,565.6 L130.9,501.4 L135,369.2 L139.1,354.4 L143.3,521.9 L147.4,527.6 L151.6,635 L155.7,650.1 L159.9,646.9 L164,606.6 L168.2,389.7 L172.3,320.5 L176.5,389.7 L180.6,453.9 L184.8,503.4 L188.9,557.7 L193,617 L197.2,641.7 L201.3,617 L205.5,444.8 L209.6,327.5 L213.8,330.4 L217.9,412 L222.1,451.5 L226.2,560.2 L230.4,518.2 L234.5,594 L238.7,567.6 L242.8,602.9 L246.9,662.7 L251.1,651.6 L255.2,659 L259.4,666.4 L263.5,618.2 L267.7,570.8 L271.8,542.9 L276,582.2 L280.1,559.9 L284.3,560.9 L288.4,601.4 L292.5,636.8 L296.7,646.6 L300.8,665.9 L305,666.4 L309.1,666.4 L313.3,627.9 L317.4,645.6 L321.6,660.7 L325.7,549.8 L329.9,609.1 L334,555.2 L338.2,588.6 L342.3,601.9 L346.4,602.4 L350.6,654.5 L354.7,661.2 L358.9,666.4 L363,662.9 L367.2,602.9 L371.3,568.6 L375.5,533.7 L379.6,477.7 L383.8,474.7 L387.9,541.2 L392,530.5 L396.2,644.4 L400.3,652.3 L404.5,656.5 L408.6,520.6 L412.8,400.1 L416.9,335.4 L421.1,471.7 L425.2,342.3 L429.4,523.6 L433.5,569.3 L437.7,600.7 L441.8,637.2 L445.9,607.4 L450.1,586.6 L454.2,531 L458.4,319.1 L462.5,338.8 L466.7,499.2 L470.8,514.2 L475,524.6 L479.1,568.3 L483.3,541.9 L487.4,627.4 L491.6,658.7 L495.7,651.8 L499.8,624.7 L504,529.8 L508.1,402.6 L512.3,418.6 L516.4,462.6 L520.6,512 L524.7,547.6 L528.9,531 L533,573 L537.2,635 L541.3,654.5 L545.4,581.4 L549.6,469.8 L553.7,286.5 L557.9,394.4 L562,436.9 L566.2,497.9 L570.3,515 L574.5,630.3 L578.6,644.7 L582.8,650.8 L586.9,666.4 L591.1,640 L595.2,547.6 L599.3,522.1 L603.5,566.6 L607.6,552.8 L611.8,528.6 L615.9,542.9 L620.1,624.7 L624.2,613.5 L628.4,659.5 L632.5,615.5 L636.7,645.4 L640.8,584.9 L645,415.9 L649.1,347.2 L653.2,492.7 L657.4,496.2 L661.5,599.2 L665.7,612.5 L669.8,588.8 L674,659.2 L678.1,655.8 L682.3,663.9 L686.4,660.7 L690.6,595.3 L694.7,522.6 L698.8,521.1 L703,548.6 L707.1,532.3 L711.3,442.8 L715.4,609.3 L719.6,638 L723.7,656.5 L727.9,665.7 L732,665.9 L736.2,647.4 L740.3,494.5 L744.5,579.4 L748.6,284.7 L752.7,415.2 L756.9,495.9 L761,619 L765.2,610.1 L769.3,650.3 L773.5,665.2 L777.6,618.7 L781.8,572.8 L785.9,514.2 L790.1,533.5 L794.2,459.4 L798.4,503.8 L802.5,604.9 L806.6,634.3 L810.8,649.6 L814.9,665.9 L819.1,645.9 L823.2,592 L827.4,451.5 L831.5,326.2 L835.7,380.6 L839.8,405 L844,405.8 L848.1,518.2 L852.2,616.5 L856.4,618.5 L860.5,625.1 L864.7,602.4 L868.8,401.6 L873,200 L877.1,276.3 L881.3,360.6 L885.4,455.9 L889.6,515.7 L893.7,530.8 L897.9,608.3 L902,645.6 L906.1,565.9 L910.3,247.4 L914.4,276.1 L918.6,171.8 L922.7,173.3 L926.9,335.1 L931,528.6 L935.2,612.5 L939.3,584.4 L943.5,643.4 L947.6,644.4 L951.7,539.9 L955.9,401.6 L960,396.4 L964.2,424.3 L968.3,436.7 L972.5,514.7 L976.6,476.7 L980.8,603.2 L984.9,583.4 L989.1,568.3 L993.2,625.9 L997.4,592 L1001.5,522.9 L1005.6,315.1 L1009.8,331.9 L1013.9,274.3 L1018.1,400.6 L1022.2,489 L1026.4,603.4 L1030.5,639 L1034.7,648.1 L1038.8,570.8 L1043,390.7 L1047.1,249.2 L1051.3,171.6 L1055.4,230.9 L1059.5,507.1 L1063.7,562.1 L1067.8,610.8 L1072,631.1 L1076.1,630.8 L1080.3,606.1 L1084.4,438.6 L1088.6,434.9 L1092.7,344 L1096.9,403.6 L1101,378.8 L1105.1,486.8 L1109.3,565.4 L1113.4,576.5 L1117.6,634.5 L1121.7,651.6 L1125.9,665.2 L1130,666.4 L1134.2,618 L1138.3,541.4 L1142.5,510.8 L1146.6,503.4"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Set</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1104.15,98.3632)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#008000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,95.5 L1144.5,95.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#008000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,478.9 L52.1,478.9 L56.2,441.1 L60.4,608.3 L64.5,599.5 L68.7,597.2 L72.8,646.1 L77,622.4 L81.1,637.2 L85.3,568.3 L89.4,512 L93.5,475.7 L97.7,515 L101.8,417.6 L106,497.2 L110.1,498.2 L114.3,596.7 L118.4,626.9 L122.6,655.8 L126.7,560.9 L130.9,481.6 L135,298.8 L139.1,408.5 L143.3,415.9 L147.4,541.6 L151.6,594 L155.7,646.9 L159.9,658.5 L164,626.9 L168.2,379.3 L172.3,242.2 L176.5,392.2 L180.6,434.9 L184.8,540.4 L188.9,582.4 L193,621.9 L197.2,641.7 L201.3,587.3 L205.5,391 L209.6,277.8 L213.8,318.1 L217.9,389.7 L222.1,475.4 L226.2,502.1 L230.4,520.6 L234.5,607.1 L238.7,639 L242.8,633 L246.9,620.9 L251.1,652.3 L255.2,660.5 L259.4,666.4 L263.5,638 L267.7,583.6 L271.8,538.4 L276,554.5 L280.1,535.5 L284.3,556.7 L288.4,607.1 L292.5,652.3 L296.7,637.5 L300.8,665.4 L305,666.4 L309.1,660.5 L313.3,653.6 L317.4,628.6 L321.6,646.4 L325.7,588.6 L329.9,548.3 L334,575.7 L338.2,601.9 L342.3,629.6 L346.4,653.6 L350.6,655.5 L354.7,666.4 L358.9,666.4 L363,615.8 L367.2,627.6 L371.3,619.7 L375.5,543.9 L379.6,541.9 L383.8,536 L387.9,513 L392,572.8 L396.2,646.1 L400.3,637.7 L404.5,638 L408.6,417.4 L412.8,431.5 L416.9,428.5 L421.1,484.6 L425.2,338.6 L429.4,483.6 L433.5,576.2 L437.7,620.9 L441.8,656 L445.9,649.1 L450.1,593.3 L454.2,401.8 L458.4,268.9 L462.5,418.6 L466.7,434.9 L470.8,453.5 L475,498.7 L479.1,573.8 L483.3,583.6 L487.4,611.1 L491.6,666.4 L495.7,655.5 L499.8,561.7 L504,468.5 L508.1,405 L512.3,438.6 L516.4,469 L520.6,501.9 L524.7,612.1 L528.9,596 L533,613 L537.2,648.4 L541.3,642.2 L545.4,549.8 L549.6,467.3 L553.7,330.4 L557.9,468 L562,383.3 L566.2,550 L570.3,597.2 L574.5,660.5 L578.6,641.9 L582.8,624.7 L586.9,653.3 L591.1,651.3 L595.2,503.4 L599.3,535 L603.5,523.9 L607.6,536.5 L611.8,513.5 L615.9,568.6 L620.1,613.5 L624.2,648.1 L628.4,644.7 L632.5,650.3 L636.7,623.9 L640.8,533.5 L645,511.3 L649.1,474 L653.2,503.6 L657.4,523.9 L661.5,515 L665.7,547.6 L669.8,580.4 L674,645.6 L678.1,645.9 L682.3,664.9 L686.4,647.6 L690.6,639 L694.7,592 L698.8,530.5 L703,527.8 L707.1,456.4 L711.3,451.7 L715.4,570.5 L719.6,601.7 L723.7,656.5 L727.9,642.9 L732,663.4 L736.2,635 L740.3,544.1 L744.5,555 L748.6,346.7 L752.7,469 L756.9,531.3 L761,576.7 L765.2,622.4 L769.3,654.8 L773.5,633.8 L777.6,604.4 L781.8,517.7 L785.9,516.2 L790.1,497.4 L794.2,444.8 L798.4,581.4 L802.5,587.1 L806.6,619.5 L810.8,656.5 L814.9,653.8 L819.1,656.5 L823.2,562.4 L827.4,478.7 L831.5,417.6 L835.7,445.1 L839.8,388.2 L844,502.1 L848.1,503.6 L852.2,623.9 L856.4,641.7 L860.5,631.1 L864.7,580.2 L868.8,433.2 L873,247.9 L877.1,312.4 L881.3,307.5 L885.4,539.7 L889.6,461.1 L893.7,596.7 L897.9,618.7 L902,662.7 L906.1,560.9 L910.3,238.5 L914.4,83.9 L918.6,169.4 L922.7,307.7 L926.9,352.2 L931,509.3 L935.2,539.7 L939.3,570.5 L943.5,654.8 L947.6,624.9 L951.7,542.4 L955.9,476.7 L960,376.9 L964.2,440.9 L968.3,420.6 L972.5,542.4 L976.6,508.3 L980.8,519.9 L984.9,567.1 L989.1,632.1 L993.2,633 L997.4,557.7 L1001.5,325 L1005.6,201 L1009.8,283.5 L1013.9,253.1 L1018.1,372.9 L1022.2,542.1 L1026.4,627.6 L1030.5,656.8 L1034.7,657 L1038.8,582.7 L1043,369.7 L1047.1,229.9 L1051.3,357.1 L1055.4,356.9 L1059.5,508.5 L1063.7,611.1 L1067.8,602.9 L1072,637.2 L1076.1,662.4 L1080.3,539.7 L1084.4,436.9 L1088.6,489.8 L1092.7,395.4 L1096.9,294.1 L1101,395.6 L1105.1,546.1 L1109.3,598 L1113.4,612.3 L1117.6,630.8 L1121.7,660.5 L1125.9,663.7 L1130,655.8 L1134.2,604.1 L1138.3,473.7 L1142.5,514.7 L1146.6,575"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Out</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1103.04,106.377)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,103.5 L1144.5,103.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,479.9 L52.1,479.9 L56.2,504.1 L60.4,609.1 L64.5,551.3 L68.7,604.6 L72.8,606.9 L77,607.9 L81.1,631.1 L85.3,586.1 L89.4,573.3 L93.5,518.9 L97.7,541.4 L101.8,447.3 L106,495.2 L110.1,552 L114.3,597.2 L118.4,631.8 L122.6,654 L126.7,557.5 L130.9,474.2 L135,275.6 L139.1,410.5 L143.3,444.1 L147.4,472.2 L151.6,601.4 L155.7,631.8 L159.9,652.6 L164,592.3 L168.2,403.3 L172.3,280.3 L176.5,360.1 L180.6,476.2 L184.8,599 L188.9,609.1 L193,646.6 L197.2,646.6 L201.3,549.8 L205.5,389 L209.6,278.5 L213.8,315.6 L217.9,444.8 L222.1,458.1 L226.2,514 L230.4,520.6 L234.5,550.3 L238.7,596 L242.8,618.2 L246.9,639.2 L251.1,649.4 L255.2,662.7 L259.4,655 L263.5,636 L267.7,585.9 L271.8,571.3 L276,532.3 L280.1,512.5 L284.3,593.8 L288.4,599.7 L292.5,646.6 L296.7,654.8 L300.8,666.4 L305,666.4 L309.1,651.3 L313.3,656.8 L317.4,597.7 L321.6,618.7 L325.7,583.6 L329.9,527.1 L334,603.2 L338.2,588.3 L342.3,598.5 L346.4,644.4 L350.6,620 L354.7,665.4 L358.9,666.4 L363,604.1 L367.2,627.9 L371.3,541.4 L375.5,527.8 L379.6,531.3 L383.8,525.1 L387.9,457.9 L392,552 L396.2,614.3 L400.3,647.9 L404.5,605.1 L408.6,431.2 L412.8,327 L416.9,360.8 L421.1,442.1 L425.2,441.8 L429.4,530.5 L433.5,596 L437.7,572.3 L441.8,653.3 L445.9,613.3 L450.1,565.9 L454.2,528.3 L458.4,220.7 L462.5,339.3 L466.7,489.8 L470.8,491 L475,512 L479.1,500.1 L483.3,561.9 L487.4,635.3 L491.6,642.7 L495.7,655.3 L499.8,566.1 L504,441.1 L508.1,383.3 L512.3,443.8 L516.4,500.4 L520.6,562.9 L524.7,567.8 L528.9,582.7 L533,624.2 L537.2,631.6 L541.3,633 L545.4,514.2 L549.6,519.9 L553.7,304.7 L557.9,446.5 L562,412.9 L566.2,550 L570.3,581.7 L574.5,635 L578.6,631.1 L582.8,649.8 L586.9,663.7 L591.1,636 L595.2,560.2 L599.3,507.3 L603.5,520.2 L607.6,459.4 L611.8,548.3 L615.9,570.8 L620.1,645.2 L624.2,650.1 L628.4,661.2 L632.5,661.2 L636.7,638.7 L640.8,539.2 L645,492.2 L649.1,468.8 L653.2,479.9 L657.4,498.7 L661.5,595.5 L665.7,631.1 L669.8,581.4 L674,634.3 L678.1,634.5 L682.3,657.3 L686.4,626.1 L690.6,570.3 L694.7,532.5 L698.8,472 L703,622.4 L707.1,504.8 L711.3,586.6 L715.4,522.1 L719.6,571.8 L723.7,660 L727.9,655 L732,658.7 L736.2,646.1 L740.3,534.2 L744.5,541.2 L748.6,488 L752.7,456.4 L756.9,536 L761,543.9 L765.2,621.4 L769.3,651.1 L773.5,637.7 L777.6,603.2 L781.8,495.4 L785.9,489.8 L790.1,510.5 L794.2,514.7 L798.4,533 L802.5,581.4 L806.6,641.7 L810.8,644.4 L814.9,659 L819.1,652.3 L823.2,535 L827.4,446.5 L831.5,357.8 L835.7,421.6 L839.8,448.8 L844,530.5 L848.1,552 L852.2,619 L856.4,647.1 L860.5,624.7 L864.7,496.4 L868.8,413.7 L873,262.2 L877.1,329.7 L881.3,341.3 L885.4,514.7 L889.6,538.9 L893.7,607.6 L897.9,646.1 L902,649.1 L906.1,521.9 L910.3,282.7 L914.4,39.4 L918.6,218 L922.7,391.2 L926.9,461.9 L931,573.3 L935.2,568.8 L939.3,579.2 L943.5,651.3 L947.6,616.7 L951.7,525.1 L955.9,448.5 L960,400.3 L964.2,430 L968.3,452.5 L972.5,538.7 L976.6,515 L980.8,590.6 L984.9,550 L989.1,643.9 L993.2,615.5 L997.4,558.2 L1001.5,357.4 L1005.6,206.4 L1009.8,259.5 L1013.9,265.2 L1018.1,432.5 L1022.2,528.6 L1026.4,636.8 L1030.5,620.5 L1034.7,578.9 L1038.8,516.7 L1043,357.4 L1047.1,272.6 L1051.3,307 L1055.4,310.4 L1059.5,447.3 L1063.7,527.1 L1067.8,557.7 L1072,614.3 L1076.1,664.2 L1080.3,607.6 L1084.4,529.3 L1088.6,378.1 L1092.7,420.8 L1096.9,356.4 L1101,425.5 L1105.1,504.6 L1109.3,547.8 L1113.4,644.9 L1117.6,640.5 L1121.7,664.2 L1125.9,659.2 L1130,654.5 L1134.2,608.3 L1138.3,449 L1142.5,534.7 L1146.6,454.9"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Nov</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.24,114.391)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#00bfbf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,111.5 L1144.5,111.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#00bfbf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.1,274.6 L52.1,274.6 L56.2,510 L60.4,596 L64.5,573.5 L68.7,617 L72.8,633.8 L77,649.6 L81.1,624.4 L85.3,506.6 L89.4,560.2 L93.5,552 L97.7,518.9 L101.8,444.8 L106,474.2 L110.1,516 L114.3,602.2 L118.4,631.8 L122.6,652.3 L126.7,531.3 L130.9,442.6 L135,300.5 L139.1,339.8 L143.3,420.1 L147.4,515 L151.6,565.4 L155.7,622.7 L159.9,629.1 L164,579.9 L168.2,305.7 L172.3,295.1 L176.5,384.8 L180.6,518.2 L184.8,500.9 L188.9,588.6 L193,629.3 L197.2,624.4 L201.3,567.1 L205.5,379.8 L209.6,316.8 L213.8,432.5 L217.9,335.4 L222.1,463.8 L226.2,500.9 L230.4,525.6 L234.5,557.7 L238.7,499.9 L242.8,604.6 L246.9,645.6 L251.1,652.1 L255.2,635.5 L259.4,659.7 L263.5,640.5 L267.7,568.1 L271.8,581.2 L276,540.4 L280.1,515.7 L284.3,565.1 L288.4,604.6 L292.5,660 L296.7,640.5 L300.8,666.4 L305,666.4 L309.1,664.4 L313.3,646.9 L317.4,625.1 L321.6,630.6 L325.7,574.5 L329.9,572.3 L334,595 L338.2,639.5 L342.3,604.4 L346.4,646.9 L350.6,655.5 L354.7,666.4 L358.9,666.4 L363,666.4 L367.2,637.5 L371.3,568.8 L375.5,547.3 L379.6,525.6 L383.8,499.4 L387.9,465.8 L392,558.9 L396.2,631.1 L400.3,651.8 L404.5,591.1 L408.6,419.4 L412.8,367.7 L416.9,402.1 L421.1,475.2 L425.2,496.4 L429.4,532.3 L433.5,617.5 L437.7,566.3 L441.8,619.2 L445.9,640 L450.1,569.1 L454.2,517.2 L458.4,323.3 L462.5,383.3 L466.7,421.8 L470.8,531 L475,540.4 L479.1,532.3 L483.3,595.3 L487.4,596.7 L491.6,656 L495.7,647.4 L499.8,588.8 L504,538.2 L508.1,426.3 L512.3,424.5 L516.4,533.7 L520.6,541.4 L524.7,573.3 L528.9,524.1 L533,605.6 L537.2,644.2 L541.3,642.7 L545.4,520.4 L549.6,473.5 L553.7,302 L557.9,406 L562,389.7 L566.2,529.5 L570.3,595 L574.5,622.7 L578.6,641.9 L582.8,631.3 L586.9,656.3 L591.1,634 L595.2,590.6 L599.3,531 L603.5,457.9 L607.6,457.7 L611.8,576 L615.9,590.1 L620.1,665.7 L624.2,649.4 L628.4,640 L632.5,665.9 L636.7,642.7 L640.8,562.9 L645,504.8 L649.1,480.9 L653.2,526.6 L657.4,549.8 L661.5,572.5 L665.7,645.6 L669.8,590.1 L674,647.1 L678.1,655.3 L682.3,657 L686.4,641 L690.6,556.5 L694.7,572.5 L698.8,401.6 L703,570.3 L707.1,514.5 L711.3,554 L715.4,528.6 L719.6,654.3 L723.7,656 L727.9,663.7 L732,664.7 L736.2,625.9 L740.3,561.4 L744.5,504.3 L748.6,428.3 L752.7,460.4 L756.9,562.6 L761,599.2 L765.2,622.4 L769.3,648.1 L773.5,641.7 L777.6,610.8 L781.8,521.6 L785.9,516.9 L790.1,500.4 L794.2,542.1 L798.4,466.1 L802.5,578.5 L806.6,620.2 L810.8,646.1 L814.9,664.9 L819.1,644.9 L823.2,507.8 L827.4,381.3 L831.5,482.6 L835.7,364.5 L839.8,498.2 L844,522.1 L848.1,571.5 L852.2,590.6 L856.4,641.2 L860.5,639.7 L864.7,552.8 L868.8,360.6 L873,350.2 L877.1,429.7 L881.3,311.9 L885.4,531 L889.6,537 L893.7,611.8 L897.9,662.4 L902,643.7 L906.1,446 L910.3,169.1 L914.4,145.4 L918.6,290.2 L922.7,360.1 L926.9,445.1 L931,585.9 L935.2,599.9 L939.3,608.6 L943.5,648.1 L947.6,627.4 L951.7,525.1 L955.9,433.4 L960,453.9 L964.2,435.4 L968.3,431.2 L972.5,510.3 L976.6,563.6 L980.8,607.4 L984.9,604.6 L989.1,618.5 L993.2,653.6 L997.4,594.5 L1001.5,424.5 L1005.6,213.6 L1009.8,301 L1013.9,326.7 L1018.1,424.1 L1022.2,584.1 L1026.4,610.1 L1030.5,626.4 L1034.7,628.9 L1038.8,567.8 L1043,357.4 L1047.1,239 L1051.3,341.8 L1055.4,399.1 L1059.5,439.6 L1063.7,578.5 L1067.8,621.9 L1072,644.2 L1076.1,622.2 L1080.3,570.1 L1084.4,483.6 L1088.6,337.3 L1092.7,402.6 L1096.9,403.3 L1101,430.5 L1105.1,500.1 L1109.3,558.9 L1113.4,621.9 L1117.6,613.5 L1121.7,662.2 L1125.9,656.3 L1130,656.3 L1134.2,613.3 L1138.3,427.5 L1142.5,513.7 L1146.6,474.7"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="{}" font-size="10" font-weight="400" font-style="normal" 
+ >Dec</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,1101.36,122.404)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bf00bf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1121.5,119.5 L1144.5,119.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#bf00bf" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M52.5,666.5 L52.5,666.5 L56.5,666.5 L60.5,666.5 L64.5,666.5 L68.5,666.5 L72.5,666.5 L77.5,666.5 L81.5,666.5 L85.5,666.5 L89.5,666.5 L93.5,666.5 L97.5,666.5 L101.5,666.5 L106.5,666.5 L110.5,666.5 L114.5,666.5 L118.5,666.5 L122.5,666.5 L126.5,666.5 L130.5,666.5 L135.5,666.5 L139.5,666.5 L143.5,666.5 L147.5,666.5 L151.5,666.5 L155.5,666.5 L159.5,666.5 L164.5,666.5 L168.5,666.5 L172.5,666.5 L176.5,666.5 L180.5,666.5 L184.5,666.5 L188.5,666.5 L193.5,666.5 L197.5,666.5 L201.5,666.5 L205.5,666.5 L209.5,666.5 L213.5,666.5 L217.5,666.5 L222.5,666.5 L226.5,666.5 L230.5,666.5 L234.5,666.5 L238.5,666.5 L242.5,666.5 L246.5,666.5 L251.5,666.5 L255.5,666.5 L259.5,666.5 L263.5,666.5 L267.5,666.5 L271.5,666.5 L276.5,666.5 L280.5,666.5 L284.5,666.5 L288.5,666.5 L292.5,666.5 L296.5,666.5 L300.5,666.5 L305.5,666.5 L309.5,666.5 L313.5,666.5 L317.5,666.5 L321.5,666.5 L325.5,666.5 L329.5,666.5 L334.5,666.5 L338.5,666.5 L342.5,666.5 L346.5,666.5 L350.5,666.5 L354.5,666.5 L358.5,666.5 L363.5,666.5 L367.5,666.5 L371.5,666.5 L375.5,666.5 L379.5,666.5 L383.5,666.5 L387.5,666.5 L392.5,666.5 L396.5,666.5 L400.5,666.5 L404.5,666.5 L408.5,666.5 L412.5,666.5 L416.5,666.5 L421.5,666.5 L425.5,666.5 L429.5,666.5 L433.5,666.5 L437.5,666.5 L441.5,666.5 L445.5,666.5 L450.5,666.5 L454.5,666.5 L458.5,666.5 L462.5,666.5 L466.5,666.5 L470.5,666.5 L475.5,666.5 L479.5,666.5 L483.5,666.5 L487.5,666.5 L491.5,666.5 L495.5,666.5 L499.5,666.5 L504.5,666.5 L508.5,666.5 L512.5,666.5 L516.5,666.5 L520.5,666.5 L524.5,666.5 L528.5,666.5 L533.5,666.5 L537.5,666.5 L541.5,666.5 L545.5,666.5 L549.5,666.5 L553.5,666.5 L557.5,666.5 L562.5,666.5 L566.5,666.5 L570.5,666.5 L574.5,666.5 L578.5,666.5 L582.5,666.5 L586.5,666.5 L591.5,666.5 L595.5,666.5 L599.5,666.5 L603.5,666.5 L607.5,666.5 L611.5,666.5 L615.5,666.5 L620.5,666.5 L624.5,666.5 L628.5,666.5 L632.5,666.5 L636.5,666.5 L640.5,666.5 L645.5,666.5 L649.5,666.5 L653.5,666.5 L657.5,666.5 L661.5,666.5 L665.5,666.5 L669.5,666.5 L674.5,666.5 L678.5,666.5 L682.5,666.5 L686.5,666.5 L690.5,666.5 L694.5,666.5 L698.5,666.5 L703.5,666.5 L707.5,666.5 L711.5,666.5 L715.5,666.5 L719.5,666.5 L723.5,666.5 L727.5,666.5 L732.5,666.5 L736.5,666.5 L740.5,666.5 L744.5,666.5 L748.5,666.5 L752.5,666.5 L756.5,666.5 L761.5,666.5 L765.5,666.5 L769.5,666.5 L773.5,666.5 L777.5,666.5 L781.5,666.5 L785.5,666.5 L790.5,666.5 L794.5,666.5 L798.5,666.5 L802.5,666.5 L806.5,666.5 L810.5,666.5 L814.5,666.5 L819.5,666.5 L823.5,666.5 L827.5,666.5 L831.5,666.5 L835.5,666.5 L839.5,666.5 L844.5,666.5 L848.5,666.5 L852.5,666.5 L856.5,666.5 L860.5,666.5 L864.5,666.5 L868.5,666.5 L873.5,666.5 L877.5,666.5 L881.5,666.5 L885.5,666.5 L889.5,666.5 L893.5,666.5 L897.5,666.5 L902.5,666.5 L906.5,666.5 L910.5,666.5 L914.5,666.5 L918.5,666.5 L922.5,666.5 L926.5,666.5 L931.5,666.5 L935.5,666.5 L939.5,666.5 L943.5,666.5 L947.5,666.5 L951.5,666.5 L955.5,666.5 L960.5,666.5 L964.5,666.5 L968.5,666.5 L972.5,666.5 L976.5,666.5 L980.5,666.5 L984.5,666.5 L989.5,666.5 L993.5,666.5 L997.5,666.5 L1001.5,666.5 L1005.5,666.5 L1009.5,666.5 L1013.5,666.5 L1018.5,666.5 L1022.5,666.5 L1026.5,666.5 L1030.5,666.5 L1034.5,666.5 L1038.5,666.5 L1043.5,666.5 L1047.5,666.5 L1051.5,666.5 L1055.5,666.5 L1059.5,666.5 L1063.5,666.5 L1067.5,666.5 L1072.5,666.5 L1076.5,666.5 L1080.5,666.5 L1084.5,666.5 L1088.5,666.5 L1092.5,666.5 L1096.5,666.5 L1101.5,666.5 L1105.5,666.5 L1109.5,666.5 L1113.5,666.5 L1117.5,666.5 L1121.5,666.5 L1125.5,666.5 L1130.5,666.5 L1134.5,666.5 L1138.5,666.5 L1142.5,666.5 L1146.5,666.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.00171,0,0,1.00171,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family=".Helvetica Neue DeskInterface" font-size="13" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
